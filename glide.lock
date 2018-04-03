@@ -1,5 +1,5 @@
 hash: b63df71de4fda0824ffd40e8c9173782de9c920b1ce762d901d66290301525e0
-updated: 2018-03-27T22:05:37.88213551-04:00
+updated: 2018-04-03T13:17:48.510588952+02:00
 imports:
 - name: bitbucket.org/ww/goautoneg
   version: 75cd24fc2f2c2a2088577d12123ddee5f54e0675
@@ -147,7 +147,7 @@ imports:
   - proto
   - sortkeys
 - name: github.com/golang/glog
-  version: 23def4e6c14b4da8ac2ed8007337bc5eb5007998
+  version: 44145f04b68cf362d9c4df2182967c2275eaefed
 - name: github.com/golang/groupcache
   version: 02826c3e79038b59d737d3b1c0a1d937f71a4433
   subpackages:
@@ -220,7 +220,7 @@ imports:
   subpackages:
   - pkg/csi-common
 - name: github.com/kubernetes-incubator/external-storage
-  version: 4beb25210b52ebdbdaf60f8f3c28e76fc5de9a98
+  version: d788a5d0215147eaffb60cb07b54577d32e141e8
   subpackages:
   - lib/controller
   - lib/leaderelection
@@ -236,7 +236,7 @@ imports:
   subpackages:
   - pbutil
 - name: github.com/mitchellh/mapstructure
-  version: 00c29f56e2386353d58c599509e8dc3801b0d716
+  version: 53818660ed4955e899c0bcafa97299a388bd7c8e
 - name: github.com/NYTimes/gziphandler
   version: 56545f4a5d46df9a6648819d1664c3a03a13ffdb
 - name: github.com/opencontainers/go-digest
@@ -270,9 +270,9 @@ imports:
 - name: github.com/PuerkitoBio/urlesc
   version: 5bd2802263f21d8788851d5305584c82a5c75d7e
 - name: github.com/spf13/cobra
-  version: a1f051bc3eba734da4772d60e2d677f47cf93ef4
+  version: f62e98d28ab7ad31d707ba837a966378465c7b57
 - name: github.com/spf13/pflag
-  version: ee5fd03fd6acfd43e44aea0b4135958546ed8e73
+  version: 9ff6c6923cfffbcd502984b8e0c80539a94968b7
 - name: github.com/stretchr/objx
   version: 1a9d0bb9f541897e62256577b352fdbc1fb4fd94
 - name: github.com/stretchr/testify
